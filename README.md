@@ -4,6 +4,9 @@ An interview assignment where I show some design patterns I like in c# developme
 ## Dependencies
 - The solution is built using .NET 6.0 which can be found [here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
+## Test
+- Tests are executed on every change, 
+
 ## Comments
 - The solution contains 2 projects.
   - Test project using the xunit template.
